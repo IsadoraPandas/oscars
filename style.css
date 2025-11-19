@@ -34,9 +34,14 @@ header {
 header h1 {
     font-size: 1.8rem; /* Tamanho da fonte */
     margin: 0; /* Remove a margem padrão */
-    font-weight: 500; /* Peso da fonte (médio) */
+    font-weight: 600; /* Peso da fonte (médio) */
     font-family: 'Playfair Display', serif; /* Define a fonte para os títulos */
     white-space: nowrap; /* Impede a quebra de linha do texto */
+}
+
+header img {
+    height: 3rem; /* Altura da imagem */
+    margin-left: 4rem; /* Margem à esquerda */
 }
 
 div input {
