@@ -119,7 +119,7 @@ main {
 article {
     background: none; /* Sem cor de fundo */
     border-radius: 0; /* Sem bordas arredondadas */
-    padding: 0 20rem; /* Espaçamento interno nos lados */
+    padding: 0 20%; /* Espaçamento interno nos lados */
     margin-bottom: 1.25rem; /* Margem inferior */
     box-shadow: none; /* Sem sombra */
     transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Transição suave */
@@ -260,14 +260,17 @@ article a:hover {
         margin-top: 1rem;
     }
     div input { /* Estilos para o input em telas menores */
-        width: 50vw; /* Largura baseada na largura da viewport */
+        width: 60vw; /* Largura baseada na largura da viewport */
         font-size: 1.2rem; /* Reduz o tamanho da fonte */
     }
 
     main { /* Estilos para o main em telas menores */
-        padding: 0 1rem; /* Adiciona espaçamento lateral */
+        padding: 0 ; /* Adiciona espaçamento lateral */
     }
-
+    article {
+        padding: 20%; /* Espaçamento interno nos lados */
+    }
+    
     article:hover { /* Estilos para o article em telas menores */
         transform: none; /* Remove o efeito de escala ao passar o mouse */
     }
@@ -282,21 +285,32 @@ article a:hover {
 @media (max-width: 480px) {
     header {
         position: static;
+        padding: 0.4rem;        
     }
     header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
-        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+        font-size: 1.5rem; /* Reduz ainda mais o tamanho da fonte */
         max-width: 70%; /* Define uma largura máxima */
         word-wrap: break-word; /* Permite a quebra de palavras longas */
     }
     
     header img {
-    height: 8rem; /* Altura da imagem */
-    margin-left: none; /* Margem à esquerda */
+        /* display: none; */
+        height: 4rem; /* Altura da imagem */
+        margin-left: none; /* Margem à esquerda */
     }
 
     div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
     div input::placeholder {
         font-size: 1rem; /* Reduz o tamanho da fonte */
+        margin: 0;
+        width: 300px;
+    }
+
+    #botao-busca {
+        padding: 1rem 1.5rem; /* Espaçamento interno */
+        border-radius: 1rem; /* Arredonda as bordas */
+        border: none; /* Remove a borda padrão */
+        margin: 0.5rem;
     }
 
     article h2 { /* Estilos para o h2 do article em telas muito pequenas */
@@ -323,7 +337,7 @@ article a:hover {
 /*------------------- SLIDER FRONT PAGE - NOVIDADES ----------------------*/
 
 .carrossel {
-    width: 100% ; /* auto; */
+    width: 100% auto;
     height: 400px;
     text-align: center;
     overflow: hidden;
