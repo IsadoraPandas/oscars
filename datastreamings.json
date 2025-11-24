@@ -1,0 +1,37 @@
+[
+{
+    "nome": "Disney+",
+    "logo": "https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo-1-2048x1111.png",
+    "link": "https://www.disneyplus.com/pt-br"
+},
+{
+    "nome": "Prime Video",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png",
+    "link": "https://www.primevideo.com/offers/nonprimehomepage/ref=atv_sp_error_404"
+},
+{
+    "nome": "Netflix",
+    "logo": "https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png",
+    "link": "https://www.netflix.com/br/"
+},
+{
+    "nome": "Apple TV",
+    "logo": "https://learn.appletvapp.apple/api/storage/images/63d82630025b980007cc78e6/en-us-large@1x.png",
+    "link": "https://tv.apple.com/br"
+},
+{
+    "nome": "Paramount+",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-2048x472.png",
+    "link": "https://www.paramountplus.com/br/"
+},
+{
+    "nome": "HBO Max",
+    "logo": "https://logodownload.org/wp-content/uploads/2022/12/hbo-max-logo-0.png",
+    "link": "https://www.hbomax.com/br/pt"
+},
+{
+    "nome": "Globoplay",
+    "logo": "https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-5-2048x446.png",
+    "link": "https://globoplay.globo.com/"
+}
+]

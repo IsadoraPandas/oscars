@@ -3,55 +3,535 @@
     "nome": "The Help",
     "ano": 2011,
     "diretor": "Tate Taylor",
-    "duracao": "146 min",
+    "duracao": 146,
     "poster": "https://a.ltrbxd.com/resized/sm/upload/y0/fn/7r/cz/6u85CuvnbrzWMhKbGk4Bm5RnO3V-0-2000-0-3000-crop.jpg?v=e06d442363",
-    "classificacao": 12,
+    "classificacao": "12",
     "rottenTomatoes": { "critics": 76, "audience": 89 },
     "sinopse": "Nos anos 60, no Mississippi, uma jovem escritora branca causa um rebuliço na sociedade ao decidir entrevistar mulheres negras que trabalham como empregadas domésticas, expondo o racismo que enfrentam.",
-    "link": "https://letterboxd.com/film/the-help/"
+    "link": "https://letterboxd.com/film/the-help/",
+    "atores": ["Emma Stone", " Viola Davis", " Octavia Spencer"],
+    "melhoratriz": "Emma Stone",
+    "streaming": ["Disney+"],
+    "tags": [
+      "drama",
+      "histórico",
+      "direitos civis",
+      "estadunidense"
+    ]
 },
 {
     "nome": "Birdman",
     "ano": 2014,
     "diretor": "Alejandro G. Iñárritu",
-    "duracao": "119 min",
+    "duracao": 119,
     "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-2000-0-3000-crop.jpg?v=345680513e",
-    "classificacao": 16,
+    "classificacao": "16",
     "rottenTomatoes": { "critics": 91, "audience": 78 },
     "sinopse": "Um ator em declínio, famoso por interpretar um super-herói icônico, luta para montar uma peça na Broadway na esperança de recuperar sua carreira, sua família e a si mesmo.",
-    "link": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/"
+    "link": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+    "atores": ["Michael Keaton", " Edward Norton", " Emma Stone"],
+    "melhoratriz": "Emma Stone",
+    "streaming": ["Disney+"],
+    "tags": [
+      "comédia",
+      "drama",
+      "teatro",
+      "estadunidense"
+    ]
 },
 {
     "nome": "La La Land",
     "ano": 2016,
     "diretor": "Damien Chazelle",
-    "duracao": "128 min",
-    "classificacao": 10,
+    "duracao": 128,
+    "classificacao": "L",
     "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-2000-0-3000-crop.jpg?v=053670ff84",
     "rottenTomatoes": { "critics": 91, "audience": 81 },
     "sinopse": "Mia, uma aspirante a atriz, e Sebastian, um músico de jazz, perseguem seus sonhos em Los Angeles enquanto se apaixonam. No entanto, o sucesso crescente ameaça separar o casal.",
-    "link": "https://letterboxd.com/film/la-la-land/"   
+    "link": "https://letterboxd.com/film/la-la-land/",
+    "atores": ["Ryan Gosling", " Emma Stone", " John Legend"],
+    "melhoratriz": "Emma Stone",
+    "streaming": ["Disney+", " Prime Video"],
+    "tags": [
+      "musical",
+      "romance",
+      "comédia",
+      "drama",
+      "estadunidense"
+    ]
 },
 {
     "nome": "The Favourite",
     "ano": 2018,
     "diretor": "Yorgos Lanthimos",
-    "duracao": "119 min",
+    "duracao": 119,
     "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/7/0/5/310705-the-favourite-0-2000-0-3000-crop.jpg?v=c5488e37ef",
-    "classificacao": 16,
+    "classificacao": "16",
     "rottenTomatoes": { "critics": 93, "audience": 71 },
     "sinopse": "No início do século XVIII, a frágil Rainha Anne ocupa o trono e sua amiga Lady Sarah governa o país. Quando uma nova criada, Abigail, chega, sua astúcia a torna a favorita da rainha.",
-    "link": "https://letterboxd.com/film/the-favourite/"
+    "link": "https://letterboxd.com/film/the-favourite/",
+    "atores": ["Olivia Colman", " Emma Stone", " Rachel Weisz"],
+    "melhoratriz": "Emma Stone",
+    "streaming": ["Disney+"],
+    "tags": [
+      "comédia de época",
+      "drama",
+      "histórico",
+      "biografia",
+      "britânico"
+    ]
 },
 {
     "nome": "Poor Things",
     "ano": 2024,
     "diretor": "Yorgos Lanthimos",
-    "duracao": "141 min",
+    "duracao": 141,
     "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/0/3/5/2/710352-poor-things-0-2000-0-3000-crop.jpg?v=a0f2ee9a0e",
-    "classificacao": 18,
+    "classificacao": "18",
     "rottenTomatoes": { "critics": 92, "audience": 79 },
     "sinopse": "Trazida de volta à vida por um cientista heterodoxo, uma jovem embarca em uma jornada turbulenta de autodescoberta através de uma aventura fantástica pelo mundo.",
-    "link": "https://letterboxd.com/film/poor-things-2023/"   
-}
+    "link": "https://letterboxd.com/film/poor-things-2023/",
+    "atores": ["Emma Stone", " Mark Ruffalo", " Willem Dafoe"],
+    "melhoratriz": "Emma Stone",
+    "streaming": ["Disney+", " Prime Video"],
+    "tags": [
+      "comédia",
+      "drama",
+      "romance",
+      "ficção científica",
+      "surrealista"
+    ]
+},
+{
+    "nome": "Kramer vs. Kramer",
+    "ano": 1979,
+    "diretor": "Robert Benton",
+    "duracao": 105,
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/f5/2a/8g/mv/oyYtH37h8rLUxlERoD49losVvlg-0-2000-0-3000-crop.jpg?v=eff55ab255",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 89, "audience": 87 },
+    "sinopse": "Após sua esposa o deixar, um executivo viciado em trabalho é forçado a cuidar de seu filho pequeno sozinho. Quando sua esposa retorna para reivindicar a custódia, uma amarga batalha judicial se inicia.",
+    "link": "https://letterboxd.com/film/kramer-vs-kramer/",
+    "atores": ["Dustin Hoffman", "Meryl Streep", "Justin Henry"],
+    "melhoratriz": "Meryl Streep",
+    "streaming": ["HBO Max"],
+    "tags": [
+      "drama",
+      "família",
+      "tribunal",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "A Escolha de Sofia",
+    "ano": 1982,
+    "diretor": "Alan J. Pakula",
+    "duracao": 150,
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/gq/d4/7r/2l/7kBisRhUVzL09qSdNFeg33XbL1N-0-2000-0-3000-crop.jpg?v=b4f05a054d",
+    "classificacao": "16",
+    "rottenTomatoes": { "critics": 78, "audience": 86 },
+    "sinopse": "Um jovem escritor se torna amigo de seus vizinhos, Sophie, uma imigrante polonesa, e seu amante volátil. À medida que se aproxima de Sophie, ele descobre seu passado sombrio e os segredos que ela carrega.",
+    "link": "https://letterboxd.com/film/sophies-choice/",
+    "atores": ["Meryl Streep", "Kevin Kline", "Peter MacNicol"],
+    "melhoratriz": "Meryl Streep",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "drama",
+      "guerra",
+      "holocausto",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "O Diabo Veste Prada",
+    "ano": 2006,
+    "diretor": "David Frankel",
+    "duracao": 109,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/2/51712-the-devil-wears-prada-0-2000-0-3000-crop.jpg?v=65a9cdb330",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 75, "audience": 76 },
+    "sinopse": "Uma jovem recém-formada consegue um emprego como assistente de Miranda Priestly, a exigente e poderosa editora de uma revista de moda de Nova York. Ela precisa sobreviver no mundo implacável da alta-costura.",
+    "link": "https://letterboxd.com/film/the-devil-wears-prada/",
+    "atores": ["Meryl Streep", "Anne Hathaway", "Emily Blunt"],
+    "melhoratriz": "Meryl Streep",
+    "streaming": ["Disney+"],
+    "tags": [
+      "comédia",
+      "drama",
+      "moda",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "O Aviador",
+    "ano": 2004,
+    "diretor": "Martin Scorsese",
+    "duracao": 170,
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/3e/ft/n3/pz/y7TLJzyaz5ILCPqqvoJoVK0zfD3-0-2000-0-3000-crop.jpg?v=7d8d7fc76e",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 86, "audience": 79 },
+    "sinopse": "Um biópico que retrata os primeiros anos da carreira do lendário diretor e aviador Howard Hughes, do final dos anos 1920 a meados da década de 1940.",
+    "link": "https://letterboxd.com/film/the-aviator/",
+    "atores": ["Leonardo DiCaprio", " Cate Blanchett", " Kate Beckinsale"],
+    "melhoratriz": "Cate Blanchett",
+    "streaming": ["HBO Max", " Prime Video"],
+    "tags": [
+      "biografia",
+      "drama",
+      "aviação",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "Blue Jasmine",
+    "ano": 2013,
+    "diretor": "Woody Allen",
+    "duracao": 98,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/4/6/6/119466-blue-jasmine-0-2000-0-3000-crop.jpg?v=f9deaa1eb7",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 91, "audience": 77 },
+    "sinopse": "Uma socialite de Nova York, profundamente perturbada e em negação, chega a São Francisco para se impor à sua irmã. Ela parece valer um milhão, mas não traz dinheiro, paz ou amor.",
+    "link": "https://letterboxd.com/film/blue-jasmine/",
+    "atores": ["Cate Blanchett", " Alec Baldwin", " Sally Hawkins"],
+    "melhoratriz": "Cate Blanchett",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "drama",
+      "comédia",
+      "crise",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano": 2003,
+    "diretor": "Peter Jackson",
+    "duracao": 201,
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-2000-0-3000-crop.jpg?v=4c89d05285",
+    "classificacao": "14",
+    "rottenTomatoes": { "critics": 94, "audience": 95 },
+    "sinopse": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam, que se aproximam do Monte da Perdição com o Um Anel.",
+    "link": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "atores": ["Elijah Wood", " Ian McKellen", " Cate Blanchett"],
+    "melhoratriz": "Cate Blanchett",
+    "streaming": ["HBO Max", "Prime Video"],
+    "tags": [
+      "fantasia",
+      "aventura",
+      "épico",
+      "neozelandês"
+    ]
+},
+{
+    "nome": "Quem Tem Medo de Virginia Woolf?",
+    "ano": 1966,
+    "diretor": "Mike Nichols",
+    "duracao": 131,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/9/4/51694-who-s-afraid-of-virginia-woolf--0-2000-0-3000-crop.jpg?v=e194eba2b2",
+    "classificacao": "14",
+    "rottenTomatoes": { "critics": 95, "audience": 91 },
+    "sinopse": "Um casal de meia-idade, Martha e George, convida um casal mais jovem para sua casa após uma festa da faculdade. O que se segue é uma noite de jogos psicológicos e revelações dolorosas.",
+    "link": "https://letterboxd.com/film/whos-afraid-of-virginia-woolf/",
+    "atores": ["Elizabeth Taylor", " Richard Burton", " George Segal"],
+    "melhoratriz": "Elizabeth Taylor",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "drama",
+      "psicológico",
+      "clássico",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "Disque Butterfield 8",
+    "ano": 1960,
+    "diretor": "Daniel Mann",
+    "duracao": 109,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/2/3/7/37237-butterfield-8-0-2000-0-3000-crop.jpg?v=afd79307bf",
+    "classificacao": "14",
+    "rottenTomatoes": { "critics": 47, "audience": 56 },
+    "sinopse": "Uma modelo e call girl de Nova York se envolve com um homem rico e casado, levando a um romance tumultuado e consequências trágicas.",
+    "link": "https://letterboxd.com/film/butterfield-8/",
+    "atores": ["Elizabeth Taylor", " Laurence Harvey", " Eddie Fisher"],
+    "melhoratriz": "Elizabeth Taylor",
+    "streaming": [],
+    "tags": [
+      "drama",
+      "romance",
+      "clássico",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "Cleópatra",
+    "ano": 1963,
+    "diretor": "Joseph L. Mankiewicz",
+    "duracao": 248,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/2/2/24922-cleopatra-0-2000-0-3000-crop.jpg?v=553eca995a",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 62, "audience": 75 },
+    "sinopse": "A história da rainha egípcia Cleópatra e suas manipulações de Júlio César e Marco Antônio para manter o poder, em uma produção épica e grandiosa.",
+    "link": "https://letterboxd.com/film/cleopatra/",
+    "atores": ["Elizabeth Taylor", " Richard Burton", " Rex Harrison"],
+    "melhoratriz": "Elizabeth Taylor",
+    "streaming": ["Disney+"],
+    "tags": [
+      "épico",
+      "histórico",
+      "drama",
+      "biografia"
+    ]
+},
+{
+    "nome": "Acusados",
+    "ano": 1988,
+    "diretor": "Jonathan Kaplan",
+    "duracao": 111,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/0/1/32501-the-accused-0-2000-0-3000-crop.jpg?v=4b4156a7b6",
+    "classificacao": "18",
+    "rottenTomatoes": { "critics": 91, "audience": 83 },
+    "sinopse": "Após ser brutalmente estuprada em um bar, Sarah Tobias se une a sua advogada para processar não apenas os agressores, mas também as testemunhas que incentivaram o crime.",
+    "link": "https://letterboxd.com/film/the-accused/",
+    "atores": ["Jodie Foster", " Kelly McGillis", " Bernie Coulson"],
+    "melhoratriz": "Jodie Foster",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "drama",
+      "tribunal",
+      "crime",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "O Silêncio dos Inocentes",
+    "ano": 1991,
+    "diretor": "Jonathan Demme",
+    "duracao": 118,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/2/51782-the-silence-of-the-lambs-0-2000-0-3000-crop.jpg?v=18d88bdff4",
+    "classificacao": "16",
+    "rottenTomatoes": { "critics": 95, "audience": 95 },
+    "sinopse": "A agente do FBI Clarice Starling busca a ajuda do brilhante e encarcerado psiquiatra canibal, Dr. Hannibal Lecter, para capturar outro serial killer conhecido como 'Buffalo Bill'.",
+    "link": "https://letterboxd.com/film/the-silence-of-the-lambs/",
+    "atores": ["Jodie Foster", " Anthony Hopkins", " Scott Glenn"],
+    "melhoratriz": "Jodie Foster",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "thriller",
+      "terror psicológico",
+      "crime",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "Fargo",
+    "ano": 1996,
+    "diretor": "Joel Coen",
+    "duracao": 98,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/1/51781-fargo-0-2000-0-3000-crop.jpg?v=44835e3b35",
+    "classificacao": "16",
+    "rottenTomatoes": { "critics": 94, "audience": 93 },
+    "sinopse": "Um vendedor de carros contrata dois criminosos para sequestrar sua esposa e extorquir seu sogro rico. O plano dá terrivelmente errado, e a chefe de polícia grávida, Marge Gunderson, investiga a série de crimes que se seguem.",
+    "link": "https://letterboxd.com/film/fargo/",
+    "atores": ["Frances McDormand", " William H. Macy", " Steve Buscemi"],
+    "melhoratriz": "Frances McDormand",
+    "streaming": ["Prime Video"],
+    "tags": [
+      "comédia de humor ácido",
+      "crime",
+      "thriller",
+      "estadunidense"
+    ]
+},
+{
+    "nome": "Três Anúncios Para um Crime",
+    "ano": 2017,
+    "diretor": "Martin McDonagh",
+    "duracao": 115,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/1/6/1/0/291610-three-billboards-outside-ebbing-missouri-0-2000-0-3000-crop.jpg?v=26123017e3",
+    "classificacao": "16",
+    "rottenTomatoes": { "critics": 90, "audience": 87 },
+    "sinopse": "Mildred Hayes, uma mãe em luto, aluga três outdoors para chamar a atenção para o assassinato não resolvido de sua filha, desafiando o chefe de polícia local e dividindo a cidade.",
+    "link": "https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/",
+    "atores": ["Frances McDormand", " Woody Harrelson", " Sam Rockwell"],
+    "melhoratriz": "Frances McDormand",
+    "streaming": ["Disney+"],
+    "tags": [
+      "drama",
+      "comédia de humor ácido",
+      "crime",
+      "estadunidense",
+      "britânico"
+    ]
+},
+{
+    "nome": "Nomadland",
+    "ano": 2020,
+    "diretor": "Chloé Zhao",
+    "duracao": 108,
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-2000-0-3000-crop.jpg?v=942a672158",
+    "classificacao": "12",
+    "rottenTomatoes": { "critics": 93, "audience": 83 },
+    "sinopse": "Após perder tudo na Grande Recessão, uma mulher embarca em uma jornada pelo oeste americano, vivendo como uma nômade moderna em sua van e explorando uma vida fora da sociedade convencional.",
+    "link": "https://letterboxd.com/film/nomadland/",
+    "atores": ["Frances McDormand", " David Strathairn", " Linda May"],
+    "melhoratriz": "Frances McDormand",
+    "streaming": ["Disney+"],
+    "tags": [
+      "drama",
+      "road movie",
+      "independente",
+      "estadunidense"
+    ]
+},
+  {
+    "nome": "Florence Foster Jenkins",
+    "ano": 2016,
+    "diretor": "Stephen Frears",
+    "duracao": 110,
+    "poster": "https://image.tmdb.org/t/p/w500/z6hI994D5w7q07Qx3wA2b5s5nN2.jpg",
+    "classificacao": "12",
+    "rottenTomatoes": {
+      "critics": 87,
+      "audience": 73
+    },
+    "sinopse": "Uma socialite de Nova York decide seguir seu sonho de se tornar uma cantora de ópera, apesar de sua voz horrível, enquanto seu marido tenta proteger sua ilusão.",
+    "link": "https://letterboxd.com/film/florence-foster-jenkins/",
+    "atores": [
+      "Meryl Streep",
+      "Hugh Grant",
+      "Simon Helberg"
+    ],
+    "melhoratriz": "Meryl Streep",
+    "streaming": [
+      "Amazon Prime Video",
+      "Telecine Play"
+    ],
+    "tags": [
+      "biografia",
+      "comédia",
+      "drama",
+      "musical",
+      "estadunidense"
+    ]
+  },
+  {
+    "nome": "Taxi Driver",
+    "ano": 1976,
+    "diretor": "Martin Scorsese",
+    "duracao": 114,
+    "poster": "https://image.tmdb.org/t/p/w500/y6LwL4w5gW034vRzY6K6Q7K5Y9Q.jpg",
+    "classificacao": "16",
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 93
+    },
+    "sinopse": "Um veterano da Guerra do Vietnã trabalhando como motorista de táxi em Nova York torna-se perturbado e planeja limpar a cidade da 'sujeira', focando em uma campanha política e uma jovem prostituta.",
+    "link": "https://letterboxd.com/film/taxi-driver/",
+    "atores": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "melhoratriz": "Jodie Foster",
+    "streaming": [
+      "HBO Max"
+    ],
+    "tags": [
+      "drama",
+      "thriller psicológico",
+      "crime",
+      "neo-noir",
+      "estadunidense"
+    ]
+  },
+  {
+    "nome": "All About Eve",
+    "ano": 1950,
+    "diretor": "Joseph L. Mankiewicz",
+    "duracao": 138,
+    "poster": "https://image.tmdb.org/t/p/w500/t321e0U2qf3L42Qe8v8X5R73tHh.jpg",
+    "classificacao": "L",
+    "rottenTomatoes": {
+      "critics": 99,
+      "audience": 93
+    },
+    "sinopse": "A ambiciosa Eve Harrington se infiltra na vida da envelhecida e temperamental estrela da Broadway Margo Channing, com o objetivo de roubar seu estrelato e sua vida.",
+    "link": "https://letterboxd.com/film/all-about-eve/",
+    "atores": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders"
+    ],
+    "melhoratriz": "Bette Davis",
+    "streaming": [
+      "Mubi"
+    ],
+    "tags": [
+      "drama",
+      "clássico",
+      "teatro",
+      "hollywood",
+      "estadunidense"
+    ]
+  },
+  {
+    "nome": "Gosford Park",
+    "ano": 2001,
+    "diretor": "Robert Altman",
+    "duracao": 138,
+    "poster": "https://image.tmdb.org/t/p/w500/f8F3bT9F2x1G3yv7gq4pY5V6XvF.jpg",
+    "classificacao": "16",
+    "rottenTomatoes": {
+      "critics": 87,
+      "audience": 72
+    },
+    "sinopse": "Um fim de semana de caça em uma mansão inglesa em 1932 reúne a alta sociedade e seus servos. Quando o anfitrião é assassinado, a investigação expõe segredos complexos entre as classes.",
+    "link": "https://letterboxd.com/film/gosford-park/",
+    "atores": [
+      "Maggie Smith",
+      "Michael Gambon",
+      "Kristin Scott Thomas"
+    ],
+    "melhoratriz": "Maggie Smith",
+    "streaming": [
+      "Looke"
+    ],
+    "tags": [
+      "mistério",
+      "comédia",
+      "drama",
+      "britânico",
+      "ensemble"
+    ]
+  },
+  {
+    "nome": "Murder on the Orient Express",
+    "ano": 1974,
+    "diretor": "Sidney Lumet",
+    "duracao": 128,
+    "poster": "https://image.tmdb.org/t/p/w500/v9QvHqD5l146s2wX3V0z38W1gq8.jpg",
+    "classificacao": "L",
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 80
+    },
+    "sinopse": "O detetive Hercule Poirot está a bordo de um luxuoso trem trans-europeu que é parado por uma nevasca. Quando um passageiro é assassinado, ele deve descobrir o culpado entre os excêntricos viajantes.",
+    "link": "https://letterboxd.com/film/murder-on-the-orient-express-1974/",
+    "atores": [
+      "Albert Finney",
+      "Lauren Bacall",
+      "Ingrid Bergman"
+    ],
+    "melhoratriz": "Ingrid Bergman",
+    "streaming": [
+      "Telecine"
+    ],
+    "tags": [
+      "mistério",
+      "crime",
+      "thriller",
+      "adaptação literária",
+      "europeu"
+    ]
+  }
 ]
